@@ -1,2 +1,2 @@
-# redux-practice
+# redux-disadvantage-examples
 Created with CodeSandbox
